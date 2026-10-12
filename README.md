@@ -195,7 +195,7 @@ Python, TensorFlow / Keras, scikit-learn, NumPy, pandas, Matplotlib, Google Cola
 
 ## Author
 
-**Your Name**: [GitHub](https://github.com/<your-username>) | [LinkedIn](https://www.linkedin.com/in/<your-profile>)
+**Elrhadiouini Hamza** 
 
 ## Acknowledgements
 
